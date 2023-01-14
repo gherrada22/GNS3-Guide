@@ -113,6 +113,10 @@ Go to the following step-by-step path to configure the GNS3 images and devices: 
 - Sharing the project: If you know someone who might be interested in the project, please share it with them.
 
 
+## 🔰 NOTE
+
+`This guide will be continuously updated (from basic to expert level). Greetings! :)`
+
 &nbsp;
 
 <p align="center">
