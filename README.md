@@ -97,7 +97,7 @@ Go to the following path to learn how to install GNS3 on your operating system o
 
 ## 📌 Image and Device Configuration
 
-Go to the following step-by-step path to configure the GNS3 images and devices: <a href="#" target="_blank">Here</a>..
+Go to the following step-by-step path to configure the GNS3 images and devices: <a href="https://github.com/gherrada22/GNS3-Guide/tree/main/Image%20and%20Device%20Configuration" target="_blank">Here</a>..
 
 
 ## ❤ How to support
