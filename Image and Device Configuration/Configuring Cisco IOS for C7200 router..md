@@ -133,6 +133,7 @@ Know the functionalities of each card. Below is a summary of the functionality o
 ```
 NOTE: Data obtained from Cisco.com. For more information, click on the interface name to go to the Cisco website and get the data for each interface.
 ```
+  
 Different interfaces can be selected for each slot. Once selected, click `Next`:
 
 <p align="center">
@@ -159,6 +160,7 @@ If you selected the `Idle-PC finder` button (only necessary if no value was auto
 <p align="center">
   <img src="https://docs.gns3.com/img/getting-started/setup-wizard-local-server/26.jpg" width="400" />
 
+  
 ```
 ⚠ IMPORTANT:
 If no Idle-PC value is displayed, try clicking the Idle-PC finder button again. You may also need to restart the computer and try again if no value is found. It is incredibly important to have an Idle-PC value when using IOS compatible images. Without this value, DynaMIPS cannot prevent an instance of an IOS image from consuming 100% of a CPU core or hardware thread (in the case of hyperthreading capable CPUs).
