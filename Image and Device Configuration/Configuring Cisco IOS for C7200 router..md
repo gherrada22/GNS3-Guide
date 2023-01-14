@@ -12,7 +12,7 @@
 
 - GNS3 is a graphical network simulator where you can create and build simple and complex network scenarios on your computer virtually. In this way, you test your configuration before implementing it in the real network. You can use different network devices with GNS3 such as routers, virtual PC, cloud, etc. [Here for more information](https://github.com/gherrada22/GNS3-Guide)
 
-- The most attractive part of gns3 is that it uses the real Cisco IOS to simulate the network topology instead of programming. One disadvantage of GNS3 is that you cannot directly use the Switch IOS in GNS3, but there are many ways you can use the switch in GNS3. To switch functions in GNs3 requires Cisco IOS with NM-16ESW module. [Here is the link for GNS3 Switch IOS](#).
+- The most attractive part of gns3 is that it uses the real Cisco IOS to simulate the network topology instead of programming. One disadvantage of GNS3 is that you cannot directly use the Switch IOS in GNS3, but there are many ways you can use the switch in GNS3. To switch functions in GNs3 requires Cisco IOS with NM-16ESW module. [Here is the link for GNS3 Switch IOS](https://github.com/gherrada22/GNS3-Guide/tree/main/Image%20and%20Device%20Configuration/Download%20%20IOS%20Cisco).
 
 
 ## 🔰 Important features
